@@ -15,7 +15,7 @@
 
 不存在漏签 除非你配置错误 错误的话，他也会向你绑定的github邮箱发送邮件
 
-# 设置方法 查看[wiki](https://github.com/fgr178707/aliyunpan-automation/wiki/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+# 设置方法 查看[wiki](https://github.com/fgr178707/aliyunpan-automation/wiki)
 
 **声明:本脚本并非原创 是在别人的基础上进行修改 如侵权请提交 Issues 证明您代码是全网首发**
 
