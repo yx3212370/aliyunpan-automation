@@ -1,4 +1,4 @@
-## 复刻仓库被复刻了的话有人问  报错的话请说明到此仓库提交Issues ##
+## 复刻仓库被复刻了的话有人问  报错的话请说明到[此仓库]([https://github.com/fgr178707/aliyunpan-automation](https://github.com/fgr178707/aliyunpan-automation/issues/new/choose))提交Issues ##
 
 # 说明:
 
