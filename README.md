@@ -1,3 +1,5 @@
+# 复刻仓库被复刻了的话有人问，报错的话请说明到此仓库提交Issues
+
 # 说明:
 
 **喜欢的话点一下右上角左上角Star 这对我有很大帮助**
@@ -15,11 +17,4 @@
 
 # 设置方法 查看[wiki](https://github.com/fgr178707/aliyunpan-automation/wiki/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
-## 版权说明：
-本脚本是转自于别人 在原有的基础上进行修改
-
-作者: V-Official-233
-
-作者链接: https://github.com/V-Official-233/Aliyun-auto-signin-on-action
-
-版权声明:转载来自 V-Official-233
+# 复刻仓库被复刻了的话有人问，报错的话请说明到此仓库提交Issues
